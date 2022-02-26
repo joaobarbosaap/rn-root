@@ -26,7 +26,7 @@
         <key>CFBundleURLSchemes</key>
         <array>
           <string>myreactapp</string>
-          <string>com.myreactapp.myreactapp</string>
+          <string>com.rnroot.myreactapp</string>
         </array>
       </dict>
       <dict>

@@ -1,4 +1,4 @@
-package com.myreactapp;
+package com.rnroot;
 import expo.modules.devmenu.react.DevMenuAwareReactActivity;
 import android.content.Intent;
 import expo.modules.devlauncher.DevLauncherController;

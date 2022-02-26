@@ -6,6 +6,8 @@
     "start": "expo start --dev-client"
   },
   "dependencies": {
+    "@react-native-firebase/app": "^14.5.0",
+    "@react-native-firebase/firestore": "^14.5.0",
     "expo": "^44.0.0",
     "expo-dev-client": "~0.7.2",
     "expo-splash-screen": "~0.14.0",
